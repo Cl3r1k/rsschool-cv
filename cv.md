@@ -4,6 +4,7 @@
 
 #### Contact Information:
 > Mail : cl3r1k#@gmail.com
+
 > GitHub : cl3r1k
 
 
@@ -18,7 +19,7 @@ Very gratefull for opportunity to attend your school.
 * CSS
 * JavaScript
 * Angular
-* GitHub
+* Git
 
 ### Code examples
 
