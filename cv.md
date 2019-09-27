@@ -1,4 +1,4 @@
-## [rsschool-cv](https://Cl3r1k.github.io/rsschool-cv/)
+## [rsschool-cv](https://Cl3r1k.github.io/rsschool-cv/index.html)
 
 ## Vasilyanskiy Vladimir
 
