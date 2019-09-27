@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+    <meta charset="utf-8">
+    <title>Vladimir CV</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+
+    <main class="content">
+
+        <header id='header'>
+            <h1 class="header-text">Vasilyanskiy Vladimir</h1>
+        </header>
+
+        <section id='contacts' class="contacts-container">
+            <h2>Contact Information:</h2>
+            <blockquote class="contact-info">
+                <p><strong>Mail</strong> : cl3r1k2@gmail.com
+                    <p><strong>GitHub</strong> : cl3r1k</p>
+            </blockquote>
+        </section>
+
+        <img class="user-pic" src="./assets/img/user-illustration.png" alt="Actual face of Developer))" width="250">
+
+        <section id="summary" class="summary-container">
+            <h3>Summary</h3>
+
+            <p>I'm very like to read technical articles. Studied HTML, CSS and Angular by myself.<br> Very gratefull for opportunity to attend your school.</p>
+        </section>
+
+        <section id="skills" class="skills-container">
+            <h3>Skills</h3>
+
+            <ul>
+                <li>HTML</li>
+                <li>CSS</li>
+                <li>JavaScript</li>
+                <li>Angular</li>
+                <li>Git</li>
+            </ul>
+        </section>
+
+        <section id="code" class="code-container">
+            <h3>Code examples</h3>
+
+            <pre><code class="javascript-code">
+    mergeSort(array: number[]) {
+        if (array.length === 1) {
+            return array;
+        }
+
+        const middle = Math.floor(array.length / 2);
+        const leftArr = array.slice(0, middle);
+        const rightArr = array.slice(middle);
+
+        return this.merge(this.mergeSort(leftArr), this.mergeSort(rightArr));
+    }
+            </code></pre>
+        </section>
+
+        <section id="additional-data" class="additional-data-container">
+            <h3>Experience</h3>
+
+            <p>Completed all Interactive courses from HTML Academy, partailly completed tasks from FCC.</p>
+
+            <h3>Education</h3>
+
+            <p>Gov University, specializaion - Developer</p>
+
+            <h3>English Level</h3>
+
+            <p>The last one test gave me C1...</p>
+        </section>
+    </main>
+</body>
+
+</html>
