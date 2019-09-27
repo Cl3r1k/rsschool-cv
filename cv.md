@@ -39,9 +39,11 @@ mergeSort(array: number[]) {
 ```
 
 ### Experience
+
 Completed all Interactive courses from HTML Academy, partailly completed tasks from FCC.
 
 ### Education
+
 Gov University, specializaion - Developer
 
 ### English Level
